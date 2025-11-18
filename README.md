@@ -5,7 +5,6 @@ On **October 31, 2025**, while working as a **Security Operations Center (SOC) A
 
 This project demonstrates the detection, analysis, and mitigation of a network-level denial-of-service (DoS) attack, providing a realistic example of professional cybersecurity operations.
 
----
 
 ## Actions Taken / Mitigation
 To restore service and prevent further disruption, the following mitigation measures were implemented:
