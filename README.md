@@ -1,0 +1,2 @@
+# Incident-Report-ByteBistro.com-Website-Outage-SYN-Flood-Attack-Oct-31-2025-
+This repository documents a SYN flood attack on ByteBistro.com, conducted while acting as a SOC Analyst. It demonstrates the detection, investigation, and mitigation of the attack using SIEM alerts, IDS logs, packet captures, and network analysis. This is a simulated incident created solely for educational and training purposes. 
