@@ -26,7 +26,6 @@ To restore service and prevent further disruption, the following mitigation meas
 
 Following these measures, the web server **resumed normal functionality** and remained stable, with no further signs of SYN flood activity.
 
----
 
 ## Skills Practiced
 During this incident, I applied and developed key SOC skills, including:  
@@ -37,7 +36,6 @@ During this incident, I applied and developed key SOC skills, including:
 - **Incident Documentation:** Writing professional reports and mitigation summaries.  
 - **Threat Assessment & Future Planning:** Recommending stress testing and TCP timeout adjustments for long-term resilience.
 
----
 
 ## Supporting Documents
 The following artifacts are included in the repository for reference:  
@@ -45,12 +43,10 @@ The following artifacts are included in the repository for reference:
 - **SIEM Log Analysis:** Documentation correlating IDS and kernel logs.  
 - **Mitigation Report:** Summary of actions taken and post-incident status.
 
----
 
 ## Future Recommendations
 - Conduct **regular stress and penetration testing** to simulate SYN flood scenarios.  
 
----
 
 ## Notes
 **Disclaimer:** This is a simulated incident created solely for educational and training purposes. All data, IP addresses, and events are fictional.
