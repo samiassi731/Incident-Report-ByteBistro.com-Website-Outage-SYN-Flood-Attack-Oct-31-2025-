@@ -29,12 +29,12 @@ Following these measures, the web server **resumed normal functionality** and re
 
 ## Skills Practiced
 During this incident, I applied and developed key SOC skills, including:  
-- **Network Traffic Analysis:** Capturing and analyzing packet-level data using **Wireshark**.  
-- **IDS and SIEM Log Correlation:** Interpreting alerts and logs to identify attack patterns.  
-- **Incident Mitigation:** Implementing SYN cookies, firewall rules, and rate limiting.  
-- **Log Analysis:** Reviewing kernel and system logs to confirm attack scope.  
-- **Incident Documentation:** Writing professional reports and mitigation summaries.  
-- **Threat Assessment & Future Planning:** Recommending stress testing and TCP timeout adjustments for long-term resilience.
+- **Packet Capture Analysis:** Reviewing `.pcap` files using **Wireshark** to examine network traffic and identify potential attack patterns.  
+- **IDS and SIEM Log Analysis:** Correlating IDS alerts and SIEM logs to determine the scope, source, and characteristics of the attack.  
+- **Incident Mitigation:** Implementing mitigation strategies such as enabling SYN cookies, configuring firewall IP filtering, and applying temporary SYN rate limiting.  
+- **System and Kernel Log Analysis:** Examining server and kernel logs to confirm the impact of the attack on resources and connectivity.  
+- **Incident Documentation:** Preparing professional reports summarizing findings, mitigation actions, and outcomes.  
+- **Threat Assessment & Future Planning:** Recommending stress testing, TCP timeout adjustments, and monitoring improvements to enhance long-term resilience.
 
 
 ## Supporting Documents
