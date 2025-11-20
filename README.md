@@ -5,6 +5,15 @@ On **October 31, 2025**, while working as a **Security Operations Center (SOC) A
 
 This project demonstrates the detection, analysis, and mitigation of a network-level denial-of-service (DoS) attack, providing a realistic example of professional cybersecurity operations.
 
+**How to Navigate This Repository**
+
+This repository is organized to follow the chronological flow of the incident response process.
+It’s recommended to read the documents in the following order for full context:
+
+**Incident Report**: Provides the full overview — incident summary, timeline, initial thoughts, and actions taken.
+**SIEM Log Analysis**: Details the log correlation and confirmation of the SYN flood activity.
+**Mitigation Report**: Outlines the defensive measures applied and post-incident stability verification.
+(The snippet_oct31_0948.pcap file is included as supporting evidence of the captured SYN flood traffic.)
 
 ## Actions Taken / Mitigation
 To restore service and prevent further disruption, the following mitigation measures were implemented:
@@ -39,6 +48,7 @@ During this incident, I applied and developed key SOC skills, including:
 
 ## Supporting Documents
 The following artifacts are included in the repository for reference:  
+- **Incident Report:** Comprehensive report documenting the incident summary, initial observations & detection timeline.
 - **Packet Capture:** `snippet_oct31_0948.pcap` – live traffic during the attack.  
 - **SIEM Log Analysis:** Documentation correlating IDS and kernel logs.  
 - **Mitigation Report:** Summary of actions taken and post-incident status.
