@@ -10,11 +10,9 @@ This project demonstrates the detection, analysis, and mitigation of a network-l
 This repository is organized to follow the chronological flow of the incident response process.
 It’s recommended to read the documents in the following order for full context:
 
-**Incident Report**: Provides the full overview — incident summary, timeline, initial thoughts, and actions taken.
-
-**SIEM Log Analysis**: Details the log correlation and confirmation of the SYN flood activity.
-
-**Mitigation Report**: Outlines the defensive measures applied and post-incident stability verification.
+- **Incident Report**: Provides the full overview — incident summary, timeline, initial thoughts, and actions taken.
+- **SIEM Log Analysis**: Details the log correlation and confirmation of the SYN flood activity.
+- **Mitigation Report**: Outlines the defensive measures applied and post-incident stability verification.
 (The snippet_oct31_0948.pcap file is included as supporting evidence of the captured SYN flood traffic.)
 
 ## Actions Taken / Mitigation
